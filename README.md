@@ -15,5 +15,3 @@ Please detail:
  The main steps you would take to explore, clean, and organize the provided dataset.
  The key factors or criteria you would consider essential to ensure the insights are relevant, accurate, and representative.
  How you would validate both the analytical approach and the insights generated.
-
-Please fell free to contact Andrea Filgueiras at andrea.filgueiras@klavi.ai if you have any questions
